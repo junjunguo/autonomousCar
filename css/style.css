@@ -27,7 +27,11 @@ h1 {
     height : 100vh;
     }
 
-#index-banner{
+.text-head {
+    margin-top : 80px;
+    }
+
+#index-banner {
     /*min-height: 450px;*/
     }
 
