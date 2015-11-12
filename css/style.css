@@ -15,6 +15,10 @@ p {
   line-height: 2rem;
 }
 
+h1 {
+  line-height: 2rem;
+  }
+
 .button-collapse {
   color: #26a69a;
 }
