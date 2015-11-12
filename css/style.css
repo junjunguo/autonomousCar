@@ -6,6 +6,12 @@
  * Made By MaterializeCSS.com
  */
 
+.readmore {
+  float: right;
+  
+  color: #ffffff;
+}
+
 nav ul a,
 nav .brand-logo {
     color : #444444;
