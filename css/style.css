@@ -33,6 +33,14 @@ h1 {
     height : 100vh;
     }
 
+.text-head {
+    margin-top : 80px;
+    }
+
+#index-banner {
+    /*min-height: 450px;*/
+    }
+
 .parallax-container {
     min-height  : 380px;
     line-height : 0;
