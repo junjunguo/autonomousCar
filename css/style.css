@@ -30,7 +30,7 @@ h1 {
     }
 
 .full-height {
-    height : 100vh;
+    height : 50vh;
     }
 
 .text-head {
@@ -42,7 +42,7 @@ h1 {
     }
 
 .parallax-container {
-    min-height  : 380px;
+    min-height  : 100px;
     line-height : 0;
     height      : auto;
     color       : rgba(255, 255, 255, .9);
