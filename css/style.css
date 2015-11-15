@@ -19,7 +19,8 @@ nav .brand-logo {
 
 p {
     line-height : 2rem;
-    }
+    font-size: 150%;
+}
 
 h1 {
     line-height : 2rem;
@@ -30,7 +31,7 @@ h1 {
     }
 
 .full-height {
-    height : 100vh;
+    height : 50vh;
     }
 
 .text-head {
@@ -42,7 +43,7 @@ h1 {
     }
 
 .parallax-container {
-    min-height  : 380px;
+    min-height  : 100px;
     line-height : 0;
     height      : auto;
     color       : rgba(255, 255, 255, .9);
@@ -63,6 +64,7 @@ h1 {
         }
     }
 
+
 @media only screen and (max-width : 600px) {
     #index-banner .section {
         top : 0;
@@ -79,4 +81,21 @@ h1 {
 
 footer.page-footer {
     margin : 0;
+    }
+
+
+.video-container {
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+    }
+
+.video-container iframe, .video-container object, .video-container embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
     }
