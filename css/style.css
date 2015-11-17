@@ -34,6 +34,10 @@ h1 {
     height : 500px;
     }
 
+.half-height {
+    height : 100px;
+    }
+
 .text-head {
     margin-top : 80px;
     }
@@ -86,8 +90,9 @@ footer.p {
     font-size : small;
     }
 
-.my-header-auc {
-    top : -500px;
+.my-text-shadow {
+    /*color       : #009688 !important;*/
+    text-shadow : 1px 1px 2px #FFFFFF;
     }
 
 #staggered-member {
@@ -108,4 +113,12 @@ footer.p {
     left     : 0;
     width    : 100%;
     height   : 100%;
+    }
+
+.extra-button-margin {
+    margin-bottom : 30px;
+    }
+
+.my-section-height {
+    min-height : 150px;
     }
