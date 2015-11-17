@@ -7,10 +7,10 @@
  */
 
 .readmore {
-  float: right;
-  
-  color: #ffffff;
-}
+    float : right;
+
+    color : #FFFFFF;
+    }
 
 nav ul a,
 nav .brand-logo {
@@ -19,8 +19,8 @@ nav .brand-logo {
 
 p {
     line-height : 2rem;
-    font-size: 150%;
-}
+    font-size   : 150%;
+    }
 
 h1 {
     line-height : 2rem;
@@ -64,7 +64,6 @@ h1 {
         }
     }
 
-
 @media only screen and (max-width : 600px) {
     #index-banner .section {
         top : 0;
@@ -83,19 +82,30 @@ footer.page-footer {
     margin : 0;
     }
 
+footer.p {
+    font-size : small;
+    }
+
+.my-header-auc {
+    top : -500px;
+    }
+
+#staggered-member {
+    text-align : center;
+    }
 
 .video-container {
-    position:relative;
-    padding-bottom:56.25%;
-    padding-top:30px;
-    height:0;
-    overflow:hidden;
+    position       : relative;
+    padding-bottom : 56.25%;
+    padding-top    : 30px;
+    height         : 0;
+    overflow       : hidden;
     }
 
 .video-container iframe, .video-container object, .video-container embed {
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
+    position : absolute;
+    top      : 0;
+    left     : 0;
+    width    : 100%;
+    height   : 100%;
     }
