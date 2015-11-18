@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579ccb23-d0f2-4eeb-8373-ca88da005d9e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/empathizing.html" afterPath="$PROJECT_DIR$/empathizing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentation.html" afterPath="$PROJECT_DIR$/presentation.html" />
     </list>
     <ignored path="autonomousCar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,28 +47,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.75">
-              <caret line="173" column="65" selection-start-line="173" selection-start-column="65" selection-end-line="173" selection-end-column="65" />
+            <state vertical-scroll-proportion="-15.375">
+              <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="217" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="presentation.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="presentation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/presentation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.0">
-              <caret line="177" column="65" selection-start-line="177" selection-start-column="65" selection-end-line="177" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.8559671">
+              <caret line="222" column="12" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="empathizing.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="empathizing.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/empathizing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44017094">
-              <caret line="342" column="26" selection-start-line="342" selection-start-column="26" selection-end-line="342" selection-end-column="26" />
+            <state vertical-scroll-proportion="-6.0588236">
+              <caret line="342" column="42" selection-start-line="342" selection-start-column="42" selection-end-line="342" selection-end-column="58" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#12;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -117,9 +117,9 @@
         <option value="$PROJECT_DIR$/js/presentation.js" />
         <option value="$PROJECT_DIR$/ideation.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/presentation.html" />
         <option value="$PROJECT_DIR$/prototyping.html" />
         <option value="$PROJECT_DIR$/empathizing.html" />
+        <option value="$PROJECT_DIR$/presentation.html" />
       </list>
     </option>
   </component>
@@ -539,22 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.75">
-          <caret line="173" column="65" selection-start-line="173" selection-start-column="65" selection-end-line="173" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.0">
-          <caret line="177" column="65" selection-start-line="177" selection-start-column="65" selection-end-line="177" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prototyping.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.5">
@@ -565,11 +549,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/empathizing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44017094">
-          <caret line="342" column="26" selection-start-line="342" selection-start-column="26" selection-end-line="342" selection-end-column="26" />
+        <state vertical-scroll-proportion="-6.0588236">
+          <caret line="342" column="42" selection-start-line="342" selection-start-column="42" selection-end-line="342" selection-end-column="58" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#12;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.375">
+          <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="217" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8559671">
+          <caret line="222" column="12" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
