@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579ccb23-d0f2-4eeb-8373-ca88da005d9e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prototyping.html" afterPath="$PROJECT_DIR$/prototyping.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/empathizing.html" afterPath="$PROJECT_DIR$/empathizing.html" />
     </list>
     <ignored path="autonomousCar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="prototyping.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="prototyping.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prototyping.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34979424">
+            <state vertical-scroll-proportion="-10.625">
               <caret line="330" column="21" selection-start-line="330" selection-start-column="21" selection-end-line="330" selection-end-column="44" />
               <folding />
             </state>
@@ -54,12 +54,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="empathizing.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="empathizing.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/empathizing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125">
-              <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
-              <folding />
+            <state vertical-scroll-proportion="-5.412722">
+              <caret line="92" column="20" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,8 +103,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/ideation.html" />
-        <option value="$PROJECT_DIR$/empathizing.html" />
         <option value="$PROJECT_DIR$/prototyping.html" />
+        <option value="$PROJECT_DIR$/empathizing.html" />
       </list>
     </option>
   </component>
@@ -412,19 +414,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/empathizing.html">
+    <entry file="file://$PROJECT_DIR$/prototyping.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125">
-          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        <state vertical-scroll-proportion="-10.625">
+          <caret line="330" column="21" selection-start-line="330" selection-start-column="21" selection-end-line="330" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prototyping.html">
+    <entry file="file://$PROJECT_DIR$/empathizing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34979424">
-          <caret line="330" column="21" selection-start-line="330" selection-start-column="21" selection-end-line="330" selection-end-column="44" />
-          <folding />
+        <state vertical-scroll-proportion="-5.412722">
+          <caret line="92" column="20" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
