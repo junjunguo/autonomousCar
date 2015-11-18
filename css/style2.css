@@ -87,6 +87,13 @@ footer.page-footer {
     margin : 0;
     }
 
+footer p {
+    font-size : 16px;
+    }
+
+#staggered-member {
+    text-align : center;
+    }
 
 .video-container {
     position:relative;
