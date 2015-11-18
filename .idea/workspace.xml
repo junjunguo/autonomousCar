@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579ccb23-d0f2-4eeb-8373-ca88da005d9e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentation.html" afterPath="$PROJECT_DIR$/presentation.html" />
     </list>
     <ignored path="autonomousCar.iws" />
@@ -58,8 +57,8 @@
       <file leaf-file-name="presentation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/presentation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.01504788">
-              <caret line="89" column="25" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.32284543">
+              <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -573,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/presentation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01504788">
-          <caret line="89" column="25" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.32284543">
+          <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
           <folding />
         </state>
       </provider>
