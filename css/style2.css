@@ -1,0 +1,105 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.readmore {
+  float: right;
+  
+  color: #ffffff;
+}
+
+nav ul a,
+nav .brand-logo {
+    color : #444444;
+    }
+
+p {
+    line-height : 2rem;
+    font-size: 150%;
+}
+
+h1 {
+    line-height : 2rem;
+    }
+
+.button-collapse {
+    color : #26A69A;
+    }
+
+.full-height {
+    height : 50vh;
+    }
+
+.even-fuller-height {
+    height: 65vh;
+}
+
+.text-head {
+    margin-top : 80px;
+    }
+
+#index-banner {
+    /*min-height: 450px;*/
+    }
+
+.parallax-container {
+    min-height  : 360px;
+    line-height : 0;
+    height      : auto;
+    color       : rgba(255, 255, 255, .9);
+    }
+
+.parallax-container .section {
+    width : 100%;
+    }
+
+@media only screen and (max-width : 992px) {
+    .parallax-container .section {
+        position : absolute;
+        top      : 40%;
+        }
+
+    #index-banner .section {
+        top : 10%;
+        }
+    }
+
+
+@media only screen and (max-width : 600px) {
+    #index-banner .section {
+        top : 0;
+        }
+    }
+
+.icon-block {
+    padding : 0 15px;
+    }
+
+.icon-block .material-icons {
+    font-size : inherit;
+    }
+
+footer.page-footer {
+    margin : 0;
+    }
+
+
+.video-container {
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+    }
+
+.video-container iframe, .video-container object, .video-container embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    }
